@@ -4,4 +4,4 @@ As part of my internship with United Network of Professionals (UNP) I developed 
 
 PROJECT DASHBOARD PBIX FILE:https://drive.google.com/file/d/181vlcyLeffi5ukGPtfx0B-JWNLNirh-N/view?usp=sharing
 
-PROJECT DASBOARD PDF FILE  :https://drive.google.com/file/d/1szh54XMWyfL1amOS3DCCSiifiIPC3FJz/view?usp=drive_link
+PROJECT DASBOARD PDF FILE   :https://drive.google.com/file/d/1szh54XMWyfL1amOS3DCCSiifiIPC3FJz/view?usp=drive_link
